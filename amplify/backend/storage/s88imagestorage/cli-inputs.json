@@ -1,0 +1,14 @@
+{
+  "resourceName": "s88imagestorage",
+  "policyUUID": "6f44c46e",
+  "bucketName": "awsproject-bucket-name",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
